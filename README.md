@@ -1,0 +1,1 @@
+I figured id challenge myself to learn the Bulma CSS framework by recreating a Bank landing page. Here is a screenshot of results after the first session ![Landing Page Web](https://github.com/Dumezweni-M/Bank-Website-Clone-FNB-/assets/105924691/dd56fdeb-af7e-42e4-bc60-f0252522f63a)
